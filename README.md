@@ -11,7 +11,7 @@ Color Generator is a simple and intuitive web application that allows you to gen
 
 ## Demo
 
-Check out the live demo coming soon...
+Check out the live demo `https://generate-colors-app.netlify.app`
 
 ## Installation
 
